@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(245, 230, 209) !important;
+}
+nav{
+    width: 100%;
+    margin-bottom: 2rem;
+}
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.tile {
+    width: 100px;
+    height: 100px;
+    border: 1px solid gray;
+    display: inline-block;
+    margin: 2px;
+}
+
+.brightTiles {
+    background-color: #cbe3f3; /* Light color for 'on' state */
+}
+
+.darkT {
+    background-color: #08228b; /* Dark color for 'off' state */
+}
+
+.row {
+    text-align: center;
+}
+
+.col {
+    text-align: center;
+}
+
+#boardSize {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+#start_button{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.board{
+    margin-bottom: 1rem;
+}
+
+.gameOver{
+    background-color: goldenrod;
+    border-radius: 25px;
+}
+
+h1, h2 {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
