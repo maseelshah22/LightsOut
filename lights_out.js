@@ -31,7 +31,7 @@ $(document).ready(function () {
 					.data("col", j);
 
 				let isPreLit = false;
-				let findLit = litTiles.filter((pos) => pos.row == i && pos.col == j); //checks if the cell is lit
+				let findLit = litTiles.filter((loc) => loc.row == i && loc.col == j); //checks if the cell is lit
 
 				if (findLit.length > 0) {
 					isPreLit = true;
