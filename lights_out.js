@@ -10,7 +10,7 @@ $(document).ready(function () {
 			data: { board_size: boardSize },
 			dataType: "json",
 			success: function (data) {
-				console.log("data", data);
+				//console.log("data", data);
 				buildBoard(data, boardSize);
 			},
 		});
