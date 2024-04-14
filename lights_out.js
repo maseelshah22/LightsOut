@@ -124,7 +124,7 @@ $(document).ready(function () {
 
 			$(".gameOver").html(
 				"<h1>Game Over!</h1>" +
-					"<h2>Enter a Board Size and Click Start to Play Again!</h2>"
+					"<h2>Enter a Board Size and Click 'Start Game' to Play Again!</h2>"
 			);
 		}
 	}
