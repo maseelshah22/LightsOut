@@ -1,4 +1,4 @@
-# Lights Out
+# Lights Out 💡
 
 ## About 👾🧩📱
 
