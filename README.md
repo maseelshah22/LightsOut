@@ -18,4 +18,4 @@ Maseel Shah
 * Your goal is to turn OFF all the lights (make all the tiles dark blue)
 * Good Luck and Enjoy!
   
-<img width="600" alt="Screenshot 2024-05-08 at 10 46 04 PM" src="https://github.com/maseelshah22/LightsOut/assets/98069253/8c8439a6-f6bc-4274-add6-ac8f0b7ecc4d">
+<div align=center><img width="550" alt="Screenshot 2024-05-08 at 10 46 04 PM" src="https://github.com/maseelshah22/LightsOut/assets/98069253/8c8439a6-f6bc-4274-add6-ac8f0b7ecc4d"></div>
