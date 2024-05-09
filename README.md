@@ -1,5 +1,8 @@
 # Lights Out 💡
 
+## Author ✍️
+Maseel Shah
+
 ## About 👾🧩📱
 
 * This project is a replica of the classic *Lights Out* game
@@ -14,6 +17,5 @@
 * For every tile you click, it will flip the light switch of all the adjacent tiles to it
 * Your goal is to turn OFF all the lights (make all the tiles dark blue)
 * Good Luck and Enjoy!
-
-## Author ✍️
-Maseel Shah
+  
+<img width="600" alt="Screenshot 2024-05-08 at 10 46 04 PM" src="https://github.com/maseelshah22/LightsOut/assets/98069253/8c8439a6-f6bc-4274-add6-ac8f0b7ecc4d">
